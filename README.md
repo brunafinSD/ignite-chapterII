@@ -9,6 +9,7 @@ Projeto desenvolvido no capítulo 2 do curso Ignite 2021 - Trilha ReactJS, dispo
 
  - TypeScript
  - Styled Components
+ - MirageJS
 ## Como executar
 Clone o projeto e acesse a pasta do mesmo.
 
