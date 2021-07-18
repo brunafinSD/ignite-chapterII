@@ -8,7 +8,7 @@ import { Container } from "./styles";
 
 export function Summary() {
     // forma atual para exibir dados do contexto
-    const transactions = useContext(TransactionsContext);
+    const { transactions } = useContext(TransactionsContext);
     console.log(transactions);
 
     return (
